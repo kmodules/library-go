@@ -134,3 +134,5 @@ require (
 )
 
 replace vbom.ml/util => github.com/fvbommel/util v0.0.0-20180919145318-efcd4e0f9787
+
+replace k8s.io/apiserver => github.com/kmodules/apiserver v0.27.3-0.20230817061508-fff9d1df8be4
